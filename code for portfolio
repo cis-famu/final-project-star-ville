@@ -1,0 +1,180 @@
+<html>
+    <head>
+        <title> Portfolio </title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+
+    </head>
+    <body>
+        <nav class="nav-extended">
+            <div class="nav-wrapper">
+                <div class="nav-wrapper grey darken-1">
+                <a href="#" class="brand-logo"> All About Me!! </a>
+                </div>
+              
+            </div>
+    
+        
+    
+            <div class="nav-content">
+            <div class="nav-wrapper grey darken-1">
+              <ul class="tabs tabs-transparent">
+                <li class="tab"><a href="final project for real.html">Home</a></li>
+                <li class="tab"><a class="active" href="final portfolio.html">Portfolio</a></li>
+                <li class="tab"><a href="final podcast.html">Podcast</a></li>
+                <li class="tab"><a href="final about me.html">About Me</a></li>
+                <li class="tab"><a href="final reflection.html">Reflection</a></li>
+                <li class="tab"><a href="final contact.html">Contact</a></li>
+                <li class="tab"><a href="layout for final.html">Webdesign Layout</a></li>
+              </ul>
+            </div>   
+            </div>
+          </nav>
+    
+    <ul>
+        <li class="waves-effect waves-light btn green lighten-2"> 
+        <a href="final project for real.html"> 
+        <i class="material-icons left #000000 black-text">arrow_back
+        </i> 
+
+        <span class="#000000 black-text"> Home </span>
+        </a></li>
+      </ul>
+    
+      <div class="container">
+        <div class="row">
+            <style> h4 {text-align: left;} </style>
+            <h4>With sketches anyone can draw!</h4>
+            <div class="col s4">
+                <div class="image"> 
+                    <img class="responsive-img" src="pop art sketches.jpeg" alt="a drawing in the style of pop art with a lady blowing bubbles that spell POP"
+                    width="300" height="400">
+                </div>
+            </div>
+            <div class="col s4">
+                <div class="image"> 
+                    <img class="responsive-img" src="Sketches 3.jpeg" alt="colorful bubble letters that spell out WORD"
+                    width="300" height="400">
+                </div>
+            </div>
+            <div class="col s4">
+                <div class="image"> 
+                    <img class="responsive-img" src="Sketches 4.jpeg" alt="word art of the phrase Baby can I have some of your love" 
+                    width="300" height="400">
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col s4">
+                <div class="image"> 
+                    <img class="responsive-img" src="IMG_0138.jpeg" alt="logo created for podcast"
+                    width="300" height="400">
+                </div>
+            </div>
+            <div class="col s4">
+                <div class="image"> 
+                    <img class="responsive-img" src="sketch made for garage band.jpeg" alt="thumbnail for garageband"
+                    width="300" height="400">
+                </div>
+            </div>
+            <div class="col s4">
+                <div class="image"> 
+                    <img class="responsive-img" src="Sketches 6.jpeg" alt="wo" 
+                    width="300" height="400">
+                </div>
+            </div>
+        </div>
+
+
+        <div class="row">
+            <h4>And make yourself heard with garage band!</h4>
+            <div class="col s4">
+                <video class="responsive-video" controls>
+                    <source src="testing 123 with thumbnail .mp4" type="video/mp4">
+                </video>
+            </div>
+
+            <div class="col s8">
+                <style> p { font-size: 20px;}
+                </style>
+                <p> The chill melodies of the 70s inspired the following rock song. 
+                    I wanted to try this sound because of Paramore’s This Is Why album. 
+                    I wanted to really focus on the guitars and make them the project’s highlight.   </p>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col s4">
+                <video class="responsive-video" controls>
+                    <source src="new club song with thumbnail.mp4" type="video/mp4">
+                </video>
+            </div>
+
+            <div class="col s8">
+                <style> p { font-size: 20px;}
+                </style>
+                <p> This is a house song using R&B vocals. 
+                    This song has a more psychedelic late-night vibe—great for club headboppers.  </p>
+            </div>
+        </div>
+
+
+
+      </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <footer class="page-footer blue-grey darken-1">
+        <div class="container">
+          <div class="row">
+            <div class="col l6 s12">
+              <h5 class="white-text">Follow Me!</h5>
+              <i class="material-icons left #fafafa grey-text text-lighten-5">audiotrack
+            </i>
+              <span class="grey-text text-lighten-4">
+                <p class="left-align">
+                  Spotify: soda_pop
+                </p>
+                </span>
+
+                 <i class="material-icons left #fafafa grey-text text-lighten-5">photo_camera
+                </i>
+                  <span class="grey-text text-lighten-4">
+                    <p class="left-align">
+                      instagram: sincerely.ally
+                    </p>
+                    </span>
+                
+            </div>
+
+          </div>
+        </div>
+      </footer>
+    
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+        </body>
+
+</html>
