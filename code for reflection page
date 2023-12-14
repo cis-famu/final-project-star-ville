@@ -1,0 +1,132 @@
+<html>
+    <head>
+        <title> Reflection </title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+        
+
+    </head>
+    <body>
+      <nav class="nav-extended">
+        <div class="nav-wrapper">
+            <div class="nav-wrapper grey darken-1">
+            <a href="#" class="brand-logo"> All About Me!! </a>
+            </div>
+          
+        </div>
+
+    
+
+        <div class="nav-content">
+        <div class="nav-wrapper grey darken-1">
+          <ul class="tabs tabs-transparent">
+            <li class="tab"><a href="final project for real.html">Home</a></li>
+            <li class="tab"><a href="final portfolio.html">Portfolio</a></li>
+            <li class="tab"><a href="final podcast.html">Podcast</a></li>
+            <li class="tab"><a href="final about me.html">About Me</a></li>
+            <li class="tab"><a class="active" href="final reflection.html">Reflection</a></li>
+            <li class="tab"><a href="final contact.html">Contact</a></li>
+            <li class="tab"><a href="layout for final.html">Webdesign Layout</a></li>
+          </ul>
+        </div>   
+        </div>
+      </nav> 
+    
+        <ul>
+        <li class="waves-effect waves-light btn green lighten-2"> 
+        <a href="final project for real.html"> 
+        <i class="material-icons left #000000 black-text">arrow_back
+        </i> 
+
+        <span class="#000000 black-text"> Home </span>
+        </a></li>
+      </ul>
+    
+      <div class="parallax-container">
+        <div class="parallax"><img src="parallax background.jpeg"></div>
+      </div>
+      <div class="section white">
+        <div class="row container">
+          <h2 class="header">Reflection</h2>
+          <blockquote>
+          <p style="text-indent: 25px;" class="grey-text text-darken-3 lighten-3">
+            Throughout the semester, I have learned to create an HTML and fully utilize the features on my iPad. 
+            Students started this course by learning how to storyboard a website by creating a wireframe. </p>
+            
+          <p style="text-indent: 25px;" class="grey-text text-darken-3 lighten-3">
+            During our HTML portion of the course, I learned how to create basic HTML and use CSS and JavaScript.
+            We also learned how to make a responsive website using different frameworks. 
+            I was initially assigned Materialize and decided to use Materialize to create the website you are currently using. 
+            The more I continued to use Materialize, the easier it got. 
+            I started thinking of things as a grid, which helped with planning and coding the website. </p>
+            
+          <p style="text-indent: 25px;" class="grey-text text-darken-3 lighten-3">
+            We then started different modules that focused on applications on the iPad. 
+            The apps used were Garage Band, Sketches, and Clips. On Garage Band, we created our own 40-second songs.
+            On sketches, we created different drawings utilizing various techniques, such as tracing and shading. 
+            We created a video introducing ourselves on Clips. 
+            I would say that Garage Band and Sketches were my favorite apps that we used this semester. 
+            I can see myself going back to continue using those apps. 
+            I wanted to get into writing songs in the future, so learning how to use Garage Band was extremely helpful.  </p>
+            
+          <p style="text-indent: 25px;" class="grey-text text-darken-3 lighten-3">
+            Our first major project for this class was grouping up and creating a podcast. 
+            This podcast would utilize the applications I mentioned earlier. 
+            For our podcast, we would create a logo and theme song. 
+            Each group recorded and posted 5 episodes. 
+            My group decided to make a music podcast called Rythmn Rundown.
+            </p>
+
+          <p style="text-indent: 25px;" class="grey-text text-darken-3 lighten-3">
+            I really enjoyed this class and the skills that it taught me. 
+            I started this class not knowing what HTML exactly was ( or that an HTML file needed to end with .html, or it wouldn’t run). 
+            I can now make a functioning website! ☺️ 
+            Through this class, I got to work with Garage Band and make a podcast, two things I was really excited about. 
+            I’m now over the hurdle of being completely lost. 
+            I plan to continue using and building on the skills I’ve learned in this class for school and other fun activities. 
+          </p>
+            </blockquote>
+        </div>
+      </div>
+      <div class="parallax-container">
+        <div class="parallax"><img src="parallax background.jpeg"></div>
+      </div>
+    
+    
+      <footer class="page-footer blue-grey darken-1">
+        <div class="container">
+          <div class="row">
+            <div class="col l6 s12">
+              <h5 class="white-text">Follow Me!</h5>
+              <i class="material-icons left #fafafa grey-text text-lighten-5">audiotrack
+            </i>
+              <span class="grey-text text-lighten-4">
+                <p class="left-align">
+                  Spotify: soda_pop
+                </p>
+                </span>
+
+                 <i class="material-icons left #fafafa grey-text text-lighten-5">photo_camera
+                </i>
+                  <span class="grey-text text-lighten-4">
+                    <p class="left-align">
+                      instagram: sincerely.ally
+                    </p>
+                    </span>
+                
+            </div>
+
+          </div>
+        </div>
+      </footer>
+
+         <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+        <script type="text/javascript">
+          document.addEventListener('DOMContentLoaded', function() {
+            var elems = document.querySelectorAll('.parallax');
+            var instances = M.Parallax.init(elems);
+          });
+        </script> 
+        </body>
+</html>
